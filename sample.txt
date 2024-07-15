@@ -6,3 +6,6 @@ echo " helo poooo "
 echo " helo tommy "
 echo " helooooo "
 echo " hiiii "
+
+
+echo " i dont know whatam doing here "
