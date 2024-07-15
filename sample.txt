@@ -7,4 +7,6 @@ echo " helo tommy "
 echo " helooooo "
 echo " hiiii "
 
+
 echo " crone tab is like schedling trhe job @yearly @montly @daily "
+echo " i dont know whatam doing here"
