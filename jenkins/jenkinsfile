@@ -19,7 +19,7 @@ pipeline{
          stage('Hostaname'){
             steps{
                 sh 'hostname'
-            }
+            
          }
       }
 
